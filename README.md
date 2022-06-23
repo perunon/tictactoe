@@ -4,7 +4,7 @@
 
 > Simple Tic Tac Toe Game made using React. Project made during The Complete React Bootcamp (with React Hooks and Firebase). Basic Tic Tac Toe Game with match history feature
 
-### ✨ [Demo](perunontictactoegame.surge.sh)
+### ✨ [Demo](https://perunontictactoegame.surge.sh/#/)
 
 ## Usage
 
